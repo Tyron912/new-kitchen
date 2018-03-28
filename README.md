@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Anita's Kitchen
 
 #### My portfolio, 2018
@@ -27,11 +26,3 @@ If you run into issues like pushing or pulling the data from either the local or
 ### License
 MIT LICENSE
 Copyright (c) {2018} **Anita's Kitchen plc**
-=======
-# {Application Name}
-#### {Brief description of application}, {Date of current version}
-#### By **{List of contributors}**
-## Description
-{This is a detailed description of your application, including its purpose and usage.  Give as much detail as needed to explain what the application does, and any other information you want users or other developers to have. }
-## Setup/Installation
->>>>>>> 3d0c1b27a46ec2b959d90068d871a64914708ea2
